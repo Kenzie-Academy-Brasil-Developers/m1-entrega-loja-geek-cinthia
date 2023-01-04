@@ -113,6 +113,7 @@ body {
     flex-direction: column;
     flex-wrap: nowrap;
     align-items: center;
+    border-radius: 10px;
 }
 
 .main .containerUm .caixaPinturas .imagemFrames {
@@ -182,6 +183,7 @@ body {
     flex-direction: column;
     flex-wrap: nowrap;
     align-items: center;
+    border-radius: 10px;
 }
 
 .main .containerDois .caixaActions .imagemAction {
